@@ -2,31 +2,24 @@
 
 ## Overview
 
-{I have always been fascinated by video games, the world that people are able to create with effectively 1's and 0's. It has been a long time goal of mine to realize my own world within a space and be able to say that my mind was able to help create that. This project of mine was a realization of this goal and just how far I still have to go to understand the world of environment design.}
+I have always been fascinated by video games, the world that people are able to create with effectively 1's and 0's. It has been a long time goal of mine to realize my own world within a space and be able to say that my mind was able to help create that. This project of mine was a realization of this goal and just how far I still have to go to understand the world of environment design.
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+What I was able to create was an environment contained within Unreal Engine 5 (UE5) a first in a portion of the field that always looked so daunting.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Development Environment
+## Development Environment
 
-{Describe the tools that you used to develop the software}
+Unreal Engine 5
 
-{Describe the programming language that you used and any libraries.}
-
-# Useful Websites
+## Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [I know it's basic but... youtube](http://youtube.com)
+* [Unreal Engine Documentation](https://docs.unrealengine.com/5.0/en-US/)
 
-# Future Work
+## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix camera recording angles within the Environment for filming
+* Add a third set of lights that resembles a sunset.
+* Make it playable (add some kind of walking simulator)
