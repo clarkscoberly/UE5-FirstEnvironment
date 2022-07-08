@@ -6,7 +6,7 @@ I have always been fascinated by video games, the world that people are able to 
 
 What I was able to create was an environment contained within Unreal Engine 5 (UE5) a first in a portion of the field that always looked so daunting.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3k0EpksEi68)
 
 ## Development Environment
 
@@ -14,7 +14,6 @@ Unreal Engine 5
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [I know it's basic but... youtube](http://youtube.com)
 * [Unreal Engine Documentation](https://docs.unrealengine.com/5.0/en-US/)
 
